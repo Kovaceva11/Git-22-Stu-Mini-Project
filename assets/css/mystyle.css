@@ -1,0 +1,41 @@
+* {
+    color:rgb(90, 127, 197);
+    background-color: rgb(65, 192, 76);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: block;
+    padding: auto;
+}
+
+header {
+    display: inline-block;
+    position: fixed;
+    top: 0%;
+    background-color: transparent;
+}
+
+body {
+    padding: 20px;
+}
+
+caption {
+    position:relative;
+    bottom: 5px;
+}
+
+.form {
+    display: table;
+    position: relative;
+    right: -10%;
+    background-color: rgb(51, 93, 172);
+    border-style: dotted;
+    border-width: 2px;
+    border-color: rgb(10, 3, 49);
+    padding: 10px;
+    margin-right: 50px;
+}
+
+footer {
+    position: relative;
+    top: 90%;
+    left: 10%;
+}
